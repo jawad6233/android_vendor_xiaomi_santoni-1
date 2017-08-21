@@ -1167,5 +1167,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     ims \
     imssettings \
+    QtiTelephonyServicelibrary \
     com.qti.location.sdk \
+    qti-telephony-common \
     qcrilhook
